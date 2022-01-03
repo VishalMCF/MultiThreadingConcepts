@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultiThreadingConcepts.iml" filepath="$PROJECT_DIR$/.idea/MultiThreadingConcepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadingNotes/MultiThreadingNotes.iml" filepath="$PROJECT_DIR$/MultiThreadingNotes/MultiThreadingNotes.iml" />
+    </modules>
+  </component>
+</project>
